@@ -1,3 +1,3 @@
 ## Hello World 👋 I'm Barney
-- 🔭 I’m currently working on avionic sensors for a model reocket
+- 🔭 I’m currently working on avionic sensor board for a model rocket
 - 🌱 I’m currently learning embedded system design and software implementation of control theory
